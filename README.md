@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ravish108Coder
 - 👀 I’m interested in coding and Web DevelopMent
 - 🌱 I’m currently learning c++
-- 💞️ I’m looking to collaborate on game development
+- 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me -> contact through my personal mail
 
 <!---
