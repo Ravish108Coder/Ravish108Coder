@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ravish108Coder
 - 👀 I’m interested in coding and Web DevelopMent
-- 🌱 I’m currently learning c++
+- 🌱 I’m currently Competitive Developer as well as Full Stack Developer
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me -> contact through my personal mail
 
